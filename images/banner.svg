@@ -3,7 +3,7 @@
 			xmlns:xlink="http://www.w3.org/1999/xlink"
 			xmlns:ev="http://www.w3.org/2001/xml-events"
 			x="0" y="0"
-			viewBox="0 0 2560 150"
+			viewBox="0 0 2560 300"
 			baseProfile="full">
 			<title>iCreateOFX Banner</title>
 			<style type="text/css">
@@ -33,10 +33,10 @@
 					<image xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4IiBoZWlnaHQ9IjgiPgo8cmVjdCB3aWR0aD0iOCIgaGVpZ2h0PSI4IiBmaWxsPSJraGFraSI+PC9yZWN0Pgo8cGF0aCBkPSJNMCAwTDggOFoiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlPSJkYXJra2hha2kiPjwvcGF0aD4KICA8cGF0aCBkPSJNOCAwTDAgOFoiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlPSJvcmFuZ2UiPjwvcGF0aD4KPC9zdmc+" width="8" height="8"></image>
 				</pattern>
 			</defs>
-			<rect fill="url(#Pattern)" stroke="none" x="0" y="0" width="2560" height="150"></rect> <!-- filter="url(#flood-2)" -->
-			<circle onclick="window.location.href='/products/paypalapi'" stroke-width="3" stroke="darkkhaki" r="70" cy="75" cx="1060"  fill="url(#img4)" ></circle> <!-- style="filter:url(#spotlight);" filter="url(#f1)" ></circle> --> <!-- paypal api -->
-			<circle onclick="window.location.href='/products/investment'" stroke-width="3" stroke="darkkhaki" r="70" cy="75" cx="1210"  fill="url(#img3)"></circle> <!-- invest -->
-			<circle onclick="window.location.href='/products/basic'" stroke-width="3" stroke="darkkhaki" r="70" cy="75" cx="1360" fill="url(#img1)" ></circle> <!-- basic -->
-			<circle onclick="window.location.href='/products/nationwide'" stroke-width="3" stroke="darkkhaki" r="70" cy="75" cx="1510"  fill="url(#img5)"></circle> <!-- nationwide -->
-			<circle onclick="window.location.href='/products/paypalcsv'" stroke-width="3" stroke="darkkhaki" r="70" cy="75" cx="1660"  fill="url(#img2)"></circle> <!-- paypal -->
+			<rect fill="url(#Pattern)" stroke="none" x="0" y="0" width="2560" height="300"></rect> <!-- filter="url(#flood-2)" -->
+			<circle onclick="window.location.href='/products/paypalapi'" stroke-width="3" stroke="darkkhaki" r="70" cy="150" cx="1060"  fill="url(#img4)" ></circle> <!-- style="filter:url(#spotlight);" filter="url(#f1)" ></circle> --> <!-- paypal api -->
+			<circle onclick="window.location.href='/products/investment'" stroke-width="3" stroke="darkkhaki" r="70" cy="150" cx="1210"  fill="url(#img3)"></circle> <!-- invest -->
+			<circle onclick="window.location.href='/products/basic'" stroke-width="3" stroke="darkkhaki" r="70" cy="150" cx="1360" fill="url(#img1)" ></circle> <!-- basic -->
+			<circle onclick="window.location.href='/products/nationwide'" stroke-width="3" stroke="darkkhaki" r="70" cy="150" cx="1510"  fill="url(#img5)"></circle> <!-- nationwide -->
+			<circle onclick="window.location.href='/products/paypalcsv'" stroke-width="3" stroke="darkkhaki" r="70" cy="150" cx="1660"  fill="url(#img2)"></circle> <!-- paypal -->
 		</svg>
