@@ -31,6 +31,6 @@ header.masthead>.overlay {
 
 @media (min-width: 992px) {
   header.masthead>.overlay {
-    padding: 5rem 0;
+    padding: 15rem 0;
   }
 }
