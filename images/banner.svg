@@ -40,7 +40,7 @@
 			<circle onclick="window.location.href='/products/basic'" stroke-width="3" stroke="darkkhaki" r="70" cy="100" cx="1280" fill="url(#img1)" ></circle> <!-- basic -->
 			<circle onclick="window.location.href='/products/nationwide'" stroke-width="3" stroke="darkkhaki" r="70" cy="100" cx="1430"  fill="url(#img5)"></circle> <!-- nationwide -->
 			<circle onclick="window.location.href='/products/paypalcsv'" stroke-width="3" stroke="darkkhaki" r="70" cy="100" cx="1580"  fill="url(#img2)"></circle> <!-- paypal -->
-			<text style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size:95;" x="910" y="265" fill="red">iCreateOFX</text>
+			<text font-size="95" style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;" x="910" y="265" fill="red">iCreateOFX</text>
 			<!-- <text style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;font-size:25;" x="1430" y="265" fill="black">Convert CSV files to OFX<br/>Convert QFX &amp; QBO files to OFX (QFX, QBO Reader)<br/>Convert QIF files to OFX (QIF Reader)</text> -->
 			<text x="1400" y="200" font-size="20" dy="0" style="font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;" >
 						<tspan x="1400" dy=".6em">Convert CSV files to OFX</tspan>
